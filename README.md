@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marc-bentoy
-- 👀 I’m interested in creating programs to make tasks done faster
-- 🌱 I’m currently learning things to make my potential go wild
+- 👀 I’m interested in creating desktop applications
+- 🌱 I’m currently learning software and game design
 - 💞️ I’m looking to collaborate on software for productivity, simulations, and programs to solve mathematical problems
 - 📫 You can contact me through these links:
       [fb](https://www.facebook.com/strangevinz) [email](marc.bentoy@gmail.com)
