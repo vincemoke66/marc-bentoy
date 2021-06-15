@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating desktop applications
 - 🌱 I’m currently learning software and game design
 - 💞️ I’m looking to collaborate on developing games and simulations 
-- 📫 You can contact me through these links:
+- 📫 You can contact me through:
       [fb](https://www.facebook.com/strangevinz) [email](marc.bentoy@gmail.com)
 
 <!---
