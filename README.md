@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marc-bentoy
 - 👀 I’m interested in creating desktop applications
 - 🌱 I’m currently learning software and game design
-- 💞️ I’m looking to collaborate on software for productivity, simulations, and programs to solve mathematical problems
+- 💞️ I’m looking to collaborate on developing games and simulations 
 - 📫 You can contact me through these links:
       [fb](https://www.facebook.com/strangevinz) [email](marc.bentoy@gmail.com)
 
